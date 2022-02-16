@@ -12,7 +12,7 @@ build*
 Thumbs.db
 
 # bundled thirdparty libraries
-/thirdparty/boost
+# /thirdparty/boost
 /thirdparty/libjpeg-turbo64
 /thirdparty/lzo
 /thirdparty/tiff-4.0.3
